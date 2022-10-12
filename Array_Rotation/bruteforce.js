@@ -1,4 +1,5 @@
 /*
+https://www.youtube.com/watch?v=72Zelk_XCy8&list=PLWb0cWXA-TbCD9xkgaDicM3G6Ch6jfhnO&index=1
 Rotating an array is shifting the array element to left or right index
 example 
 [1,2,3,4,5] shifted to the right at a single rate is [5,1,2,3,4]
