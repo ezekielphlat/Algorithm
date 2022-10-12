@@ -3,6 +3,7 @@ Rotating an array is shifting the array element to left or right index
 example 
 [1,2,3,4,5] shifted to the right at a single rate is [5,1,2,3,4]
 The Bruteforce algorithm is below
+r is the rotation count
 Start
 Declear Variable prev and temp
 Repeat the below step for r times
