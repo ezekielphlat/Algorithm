@@ -21,9 +21,9 @@ Steps for Right rotation
 Start
 Declear temp array of size r   (rotation count)
 Repeat this steps for r times (2)
-    temp[i]  = arr[n-r +i]  we get the last two element
-Repeat this step for n - r times desc
-    arr[i] = arr[n-r -i]
+    temp[i]  = arr[n - r + i];  we get the last two element
+Repeat this step for n - r (3) times desc
+    arr[i] = arr[i - r];
 Repeat this steps for r times i will start from 0
     (1+3) 4th
     arr[i] = temp[i];
